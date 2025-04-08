@@ -13,10 +13,9 @@ This Tableau dashboard visualizes sales and customer patterns across six months 
 - CSV data
 
 ### How the App look like?
-<img width="1206" alt="Coffee_Tableau_CusDashboard" src="https://github.com/user-attachments/assets/2871386d-a746-45b6-aa22-b0c76f11642a" />
 <img width="1206" alt="Coffee_Tableau_SaleDasboard" src="https://github.com/user-attachments/assets/ae212de5-dfaa-4ea1-bfeb-a540c2579ba9" />
 <img width="1206" alt="Coffee_Tableau_SaleDashboard 2" src="https://github.com/user-attachments/assets/2774b4c7-2948-4e13-96ed-1e80a2819027" />
-
+<img width="1206" alt="Coffee_Tableau_CusDashboard" src="https://github.com/user-attachments/assets/2871386d-a746-45b6-aa22-b0c76f11642a" />
 
 ## 📊 Live Dashboard:
 Want to see it in action? Click right 👉 <a href= "https://public.tableau.com/app/profile/thi.nhung.tran3969/viz/Book1_17439666461120/CustommerDashboard/"> here </a> for the Tableau experience!
